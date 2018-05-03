@@ -6,4 +6,4 @@ A portable, wireless screen to access the network and all the items stored withi
 
 ### Vacuum
 
-Can pick up items off the ground or take them from an inventory and input them directly into a network. Requires a wireless connection and power to operate.
+Can pick up items off the ground or take them from an inventory and input them directly into a network, along with cleaning up tall grass and leaves. Right click once to activate, again to deactivate. Requires a wireless connection and power to operate.
