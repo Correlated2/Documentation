@@ -2,7 +2,7 @@
 
 # CoMDOS
 
-The first step to setting up a CoMDOS system is to create Luminous Pearls. These pearls will be essential for fabricating many components of the system, including (but not limited to) the system controller, the access terminal, and memory cards. Storage requires both drive space and memory, so drive platters will need to be created from fired clay, and iron for higher-density storage. Once disk drives and memory chips have been created, they should be inserted in drive bays and memory bays, respectively. Finally, to complete a controller and terminal, you will require a processor core. These can be mail<!-- fuzz 1 -->ordered from Cor<!-- fuzz 3 -->ated Logistic<!-- fuzz 5 -->. (A/N: The final method to obtain a processor core is NYI. You can find it in dungeon chests until it's implemented.)
+The first step to setting up a CoMDOS system is to create Luminous Pearls. These pearls will be essential for fabricating many components of the system, including (but not limited to) the system controller, the access terminal, and memory cards. Storage requires both drive space and memory, so drive platters will need to be created from fired clay, and iron for higher-density storage. Once disk drives and memory chips have been created, they should be inserted in drive bays and memory bays, respectively. Finally, a Mundane Processor is needed to create a terminal, and to complete a controller you will require an Enderic Processor. These can be mail<!-- fuzz 1 -->ordered from Cor<!-- fuzz 3 -->ated Logistic<!-- fuzz 5 -->. (A/N: The final method to obtain an enderic processor is NYI. You can find it in dungeon chests until it's implemented.)
 
 ## WARNING:
 

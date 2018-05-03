@@ -8,7 +8,8 @@ To begin, we recommend reading 'How To Use This Handbook'. Simply click or tap i
 2. [What Is Correlated Multitasking?](/whatcom)
 3. [Getting Started with CoMDOS](/start)
 4. [Available Modules](/modules)
-5. -<!-- fuzz 5 -->Z
+5. [Available Gadgets](/gadgets)
+6. -<!-- fuzz 5 -->Z
 
 # <!-- fuzz 20 -->
 
