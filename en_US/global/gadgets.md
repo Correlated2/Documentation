@@ -6,4 +6,4 @@ A portable, wireless screen to access the network and all the items stored withi
 
 ### Vacuum
 
-Can pick up items off the ground or take them fron an inventory and input them directly into a network. Requires an APN and power to operate.
+Can pick up items off the ground or take them from an inventory and input them directly into a network. Requires an APN and power to operate.
