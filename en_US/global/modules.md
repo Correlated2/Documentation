@@ -15,11 +15,7 @@ This connects all memory chips to the network for the controller to process coor
 
 ### Terminal
 
-A screen to access the network and all the items stored within. It is not mandatory for a functional network, but is recommended for general item access.
-
-### Handheld Terminal
-
-A portable, wireless screen to access the network and all the items stored within. It is not mandatory for a functional network, and requires an APN to operate (see the Wireless section).
+A screen to access the network and all the items stored within. It is not mandatory for a functional network, but is recommended for general item access. A handheld version is availabe (see) [Gadgets](/gadgets.md)).
 
 ### Interface
 
